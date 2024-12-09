@@ -1,0 +1,16 @@
+.CRCW06034M32DHEAP :1 ;Thick Film Resistors - SMD D11/CRCW0603-P 50 4M32 0.5% ET1 e3
+RESC1608X50N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CRCW06034M32DHEAP
+~!Mouser Part Number (71-CRCW06034M32DHEAP)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW06034M32DHEAP?qs=e8oIoAS2J1RpwLKsEEgT1A%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (CRCW06034M32DHEAP)
+~!Link Datasheet (https://www.mouser.kr/ProductDetail/Vishay-Dale/CRCW06034M32DHEAP?qs=sGAEpiMZZMvdGkrng054t2cqbZCzJY7NfsEazQn3I3PZbcQN%252BV0CEA%3D%3D)
+~!Height (0.5mm)
+~!3D_Model (CRCW06034M32DHEAP)
+CRCW06034M32DHEAP
+1.1!U 2.1!U 

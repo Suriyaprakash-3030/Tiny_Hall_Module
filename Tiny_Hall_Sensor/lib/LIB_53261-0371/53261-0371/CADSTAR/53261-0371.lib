@@ -1,0 +1,17 @@
+.53261-0371 :1 ;1.25mm Pitch, PicoBlade PCB Header, Single Row, Right-Angle, Surface Mount, Tin (Sn) Plating, Friction Lock,  Circuits, Tape and Reel
+"532610371"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=MP1 5=MP2
+*PLB 1="1" 2="2" 3="3" 4="MP1" 5="MP2"
+*MXP 5
+*DFN 53261-0371
+~!Mouser Part Number (538-53261-0371)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/53261-0371?qs=%252B72YyncTwW%252BTQBxAO1kJjA%3D%3D)
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (53261-0371)
+~!Link Datasheet (-)
+~!Height (3.6mm)
+~!3D_Model (53261-0371)
+"53261-0371"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

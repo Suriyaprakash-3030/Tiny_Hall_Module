@@ -1,0 +1,39 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# DF13-3P-1.25H_75_
+#
+DEF DF13-3P-1.25H_75_ J 0 40 Y Y 1 L N
+F0 "J" -220 200 50 H V L BNN
+F1 "DF13-3P-1.25H_75_" -200 -300 50 H V L BNN
+F2 "HRS_DF13-3P-1.25H_75_" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Hirose Electric Co Ltd" 0 0 50 H I L BNN "MF"
+F5 "\nConnector Header Surface Mount, Right Angle 3 position 0.049 (1.25mm)\n" 0 0 50 H I L BNN "Description"
+F6 "None" 0 0 50 H I L BNN "Package"
+F7 "None" 0 0 50 H I L BNN "Price"
+F8 "https://www.snapeda.com/parts/DF13-3P-1.25H(75)/Hirose+Electric+Co+Ltd/view-part/?ref=eda" 0 0 50 H I L BNN "Check_prices"
+F9 "https://www.snapeda.com/parts/DF13-3P-1.25H(75)/Hirose+Electric+Co+Ltd/view-part/?ref=snap" 0 0 50 H I L BNN "SnapEDA_Link"
+F10 "DF13-3P-1.25H(75)" 0 0 50 H I L BNN "MP"
+F11 "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5522085&manufacturer=Hirose Electric Co Ltd&part_name=DF13-3P-1.25H(75)&search_term=None" 0 0 50 H I L BNN "Purchase-URL"
+F12 "In Stock" 0 0 50 H I L BNN "Availability"
+F13 "HRS" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+P 2 0 0 10 -200 100 -125 100 N
+S -175 87 -112 112 0 0 0 F
+P 2 0 0 10 -200 0 -125 0 N
+S -175 -12 -112 12 0 0 0 F
+P 2 0 0 10 -200 -100 -125 -100 N
+S -175 -112 -112 -87 0 0 0 F
+P 2 0 0 10 -200 -150 -150 -200 N
+P 2 0 0 10 -200 150 -150 200 N
+S -173 -200 227 200 0 0 10 f
+X 1 1 -400 100 200 R 40 40 0 0 P 
+X 2 2 -400 0 200 R 40 40 0 0 P 
+X 3 3 -400 -100 200 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

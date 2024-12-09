@@ -1,0 +1,16 @@
+.DRV5032DUDBZR :1 ;Ultra-Low Power 1.65V to 5.5V Hall Effect Switch
+SOT95P237X112-3N
+*STM IC
+*NGS
+*PLB 1="VCC" 2="OUT" 3="GND"
+*MXP 3
+*DFN DRV5032DUDBZR
+~!Mouser Part Number (595-DRV5032DUDBZR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV5032DUDBZR?qs=j%252B1pi9TdxUb6MFt0w9FhKg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (DRV5032DUDBZR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/DRV5032)
+~!Height (1.12mm)
+~!3D_Model (DRV5032DUDBZR)
+DRV5032DUDBZR
+1.1!P 2.1!Y 3.1!G 

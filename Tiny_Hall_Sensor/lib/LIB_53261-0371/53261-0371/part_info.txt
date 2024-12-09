@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=53261-0371
+PartCategory=Connector
+PackageCategory=Other
+PinCount=5
+Version=1.4
+Released=2020-09-17 15:22:05
+Downloaded=2024-09-20 12:32:37
+3D=Y

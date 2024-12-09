@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "KGF15AR71E104JT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-01-03-08:57:31)
+    (mountForm default
+        (footprintRef "CAPC1608X90N")
+        (spec "System")
+    )
+)

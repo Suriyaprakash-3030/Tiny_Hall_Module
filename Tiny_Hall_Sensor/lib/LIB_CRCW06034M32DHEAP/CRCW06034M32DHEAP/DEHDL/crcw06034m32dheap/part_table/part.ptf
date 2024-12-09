@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CRCW06034M32DHEAP'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "CRCW06034M32DHEAP" (!) = "", "RESC1608X50N", "Resistor Chip", "71-CRCW06034M32DHEAP", "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW06034M32DHEAP?qs=e8oIoAS2J1RpwLKsEEgT1A%3D%3D", "Thick Film Resistors - SMD D11/CRCW0603-P 50 4M32 0.5% ET1 e3", "https://www.mouser.kr/ProductDetail/Vishay-Dale/CRCW06034M32DHEAP?qs=sGAEpiMZZMvdGkrng054t2cqbZCzJY7NfsEazQn3I3PZbcQN%252BV0CEA%3D%3D", "0.5 mm"
+END_PART
+
+END.

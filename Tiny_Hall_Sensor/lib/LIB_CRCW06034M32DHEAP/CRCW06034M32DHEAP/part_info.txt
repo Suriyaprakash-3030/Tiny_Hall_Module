@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=CRCW06034M32DHEAP
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2023-12-13 09:31:42
+Downloaded=2024-09-20 12:10:21
+3D=Y

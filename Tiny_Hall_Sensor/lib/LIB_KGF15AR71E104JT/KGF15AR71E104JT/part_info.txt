@@ -1,0 +1,9 @@
+Manufacturer=Kyocera AVX
+PartNumber=KGF15AR71E104JT
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2024-08-02 12:58:11
+Downloaded=2024-09-20 12:01:16
+3D=Y
